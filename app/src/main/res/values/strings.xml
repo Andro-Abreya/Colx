@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Colx-Demo</string>
+    <string-array name="year">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+
+    <string-array name="branch">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>ECE</item>
+        <item>EE</item>
+        <item>Mechanical</item>
+        <item>ICE</item>
+        <item>IPE</item>
+        <item>Biotech</item>
+        <item>Civil</item>
+        <item>Chemical</item>
+        <item>Textile</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.colx_demo.fragments_bot.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.example.colx_demo.fragments_bot.ChatFragment"
+        android:label="fragment_chat"
+        tools:layout="@layout/fragment_chat" />
+
+    <fragment android:id="@+id/placeholderFragment"
+        android:name="com.example.colx_demo.fragments_bot.PlaceHolderFragment"
+        android:label="fragment_place_holder"
+        tools:layout="@layout/fragment_place_holder"
+        />
+    <fragment
+        android:id="@+id/myAddFragment"
+        android:name="com.example.colx_demo.fragments_bot.MyAddFragment"
+        android:label="fragment_my_add"
+        tools:layout="@layout/fragment_my_add" />
+
+            <fragment
+                android:id="@+id/accountFragment"
+                android:name="com.example.colx_demo.fragments_bot.AccountFragment"
+                android:label="fragment_account"
+                tools:layout="@layout/fragment_account" />
+
+
+</navigation>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437238377269",
+    "project_id": "colx-demo2",
+    "storage_bucket": "colx-demo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437238377269:android:63feede4eab1d669b37a7c",
+        "android_client_info": {
+          "package_name": "com.example.colx_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437238377269-quiva4an5rpvju23039083itr38n76pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbft-fvlKbXwLGGk8uPv5MhosGUvDpjHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437238377269-quiva4an5rpvju23039083itr38n76pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
