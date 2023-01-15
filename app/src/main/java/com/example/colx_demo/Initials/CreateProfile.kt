@@ -102,7 +102,8 @@ class CreateProfile : AppCompatActivity() {
                     "Year" to year.text?.trim().toString(),
                     "Branch" to branch.text?.trim().toString(),
                     "Phone No" to phoneNo.text?.trim().toString(),
-                    "ProfileCreated" to "1"
+                    "ProfileCreated" to "1",
+                    "Profile Verified" to "0"
 
                 )
                 db.collection("Users").document("$uid")

@@ -7,8 +7,8 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.colx_demo.add_product.choose_category.CreateAdd
 import com.example.colx_demo.databinding.ActivityMainBinding
-import com.example.colx_demo.databinding.ActivitySplashScreenBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.fab.setOnClickListener {
 
-            val intent = Intent(this,CreateAdd ::class.java)
+            val intent = Intent(this, CreateAdd ::class.java)
             startActivity(intent)
         }
 

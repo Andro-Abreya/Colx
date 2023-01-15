@@ -14,7 +14,13 @@
         android:theme="@style/Theme.ColxDemo"
         tools:targetApi="31">
         <activity
-            android:name=".CreateAdd"
+            android:name=".add_product.AddProduct"
+            android:exported="false" />
+        <activity
+            android:name=".add_product.choose_subcategory.ChooseSubCategory"
+            android:exported="false" />
+        <activity
+            android:name=".add_product.choose_category.CreateAdd"
             android:exported="false" />
         <activity
             android:name=".Initials.SplashScreen"

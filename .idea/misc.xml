@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/drawable/button_theme_back.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.1845" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/drawable/ic_baseline_drive_folder_upload_24.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/drawable/ic_baseline_error_outline_24.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/drawable/ic_ellipse_1__1_.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/drawable/ic_outline_add_24.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/layout/activity_add_product.xml" value="0.25754060324825984" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/layout/activity_choose_sub_category.xml" value="0.264" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/layout/activity_create_add.xml" value="0.19791666666666666" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/layout/activity_create_profile.xml" value="0.19791666666666666" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/layout/choose_cat_item.xml" value="0.2" />
+        <entry key="..\:/Android Projects/Colx/app/src/main/res/layout/sub_cat_item.xml" value="0.19791666666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ColxDemo/app/src/main/res/drawable/black_bg.xml" value="0.125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ColxDemo/app/src/main/res/drawable/ic_baseline_drive_folder_upload_24.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ColxDemo/app/src/main/res/drawable/ic_baseline_error_outline_24.xml" value="0.194" />
